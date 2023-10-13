@@ -23,5 +23,5 @@ Acknowledgement and resources:
 
 
 #links 
-URL OF THE GITHUB REPO:
+URL OF THE GITHUB REPO:https://github.com/Kendrink/password-regenerator
 URL OF THE DEPLOYED APPLICATION:

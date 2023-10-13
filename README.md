@@ -6,6 +6,7 @@ Task completed: this application loads and create random passwords for users bas
 
 Below, is an image of the deployed application;
 
+![image](https://github.com/Kendrink/password-regenerator/assets/103896572/e1b53ddb-ddcd-4b07-8163-0b29c028bd98)
 
 
 
